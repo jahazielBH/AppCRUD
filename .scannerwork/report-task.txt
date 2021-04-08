@@ -1,0 +1,6 @@
+projectKey=AppCRUD
+serverUrl=http://localhost:9000
+serverVersion=8.8.0.42792
+dashboardUrl=http://localhost:9000/dashboard?id=AppCRUD
+ceTaskId=AXix0w3psJbBOM648Tz4
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXix0w3psJbBOM648Tz4
